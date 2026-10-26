@@ -1,3 +1,8 @@
+## Available on the Steam Workshop
+
+
+![https://steamcommunity.com/sharedfiles/filedetails/?id=3811216482](Screenshots/thumbnail.jpg)
+
 # Inspect Artifacts with Descriptions
 
 "Inspect Artifacts with Descriptions" is a UI mod for STALKER 2 that adds artifact names and descriptions directly to the artifact inspection screen.
