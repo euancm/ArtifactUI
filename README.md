@@ -1,6 +1,6 @@
-# ArtifactUI
+# Inspect Artifacts with Descriptions
 
-ArtifactUI is a UI mod for STALKER 2 that adds artifact names and descriptions directly to the artifact inspection screen.
+"Inspect Artifacts with Descriptions" is a UI mod for STALKER 2 that adds artifact names and descriptions directly to the artifact inspection screen.
 
 Ever found an interesting artifact and wished you could read about it while holding it in your hand? This mod enhances the inspection view by displaying the artifact's name and description, allowing you to learn more about your discoveries while admiring them.
 
