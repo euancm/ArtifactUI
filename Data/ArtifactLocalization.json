@@ -1,0 +1,432 @@
+[
+  {
+    "Name": "AArtifact_CNPP_BigShard",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "DLC01_AArtifactCNPPShard"
+  },
+  {
+    "Name": "AArtifact_CNPP_FinalRestored",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "DLC01_AArtifactCNPP_MainFinal"
+  },
+  {
+    "Name": "AArtifact_CNPP_SmallShard_2",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "DLC01_AArtifactCNPP_SmallShard_2"
+  },
+  {
+    "Name": "AArtifact_CNPP_SmallShard_3",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "DLC01_AArtifactCNPP_SmallShard_3"
+  },
+  {
+    "Name": "AArtifact_CNPP_SmallShard_4",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "DLC01_AArtifactCNPP_SmallShard_4"
+  },
+  {
+    "Name": "AArtifact_CNPP_SmallShard_5",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "DLC01_AArtifactCNPP_SmallShard_5"
+  },
+  {
+    "Name": "AArtifact_CNPP_SmallShard_6",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "DLC01_AArtifactCNPP_SmallShard_6"
+  },
+  {
+    "Name": "AArtifactBall",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "AArtifactWeirdBall"
+  },
+  {
+    "Name": "AArtifactBolt",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "AArtifactWeirdBolt"
+  },
+  {
+    "Name": "AArtifactFlower",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "AArtifactWeirdFlower"
+  },
+  {
+    "Name": "AArtifactKettle",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "AArtifactWeirdKettle"
+  },
+  {
+    "Name": "AArtifactNut",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "AArtifactWeirdNut"
+  },
+  {
+    "Name": "AArtifactWater",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "AArtifactWeirdWater"
+  },
+  {
+    "Name": "Artifact_WaterDrip",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "DLC01_Artifact_WaterDrip"
+  },
+  {
+    "Name": "CArtifactBouncyBall",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactBouncyBall"
+  },
+  {
+    "Name": "CArtifactBubble",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactBubble"
+  },
+  {
+    "Name": "CArtifactBun",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactBun"
+  },
+  {
+    "Name": "CArtifactBung",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactBung"
+  },
+  {
+    "Name": "CArtifactChunkMeat",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactChunkMeat"
+  },
+  {
+    "Name": "CArtifactCottonWool",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactCottonWool"
+  },
+  {
+    "Name": "CArtifactCrystalThorn",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactCrystalThorn"
+  },
+  {
+    "Name": "CArtifactDevilsMushroom",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactDevilsMushroom"
+  },
+  {
+    "Name": "CArtifactEchinus",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactEchinus"
+  },
+  {
+    "Name": "CArtifactKryptonite",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactKryptonite"
+  },
+  {
+    "Name": "CArtifactLiquidStone",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactLiquidStone"
+  },
+  {
+    "Name": "CArtifactMica",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactMica"
+  },
+  {
+    "Name": "CArtifactPellicle",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactPellicle"
+  },
+  {
+    "Name": "CArtifactPlasticine",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactPlasticine"
+  },
+  {
+    "Name": "CArtifactRosin",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactRosin"
+  },
+  {
+    "Name": "CArtifactSlime",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactSlime"
+  },
+  {
+    "Name": "CArtifactSlug",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactSlug"
+  },
+  {
+    "Name": "CArtifactThorn",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactThorn"
+  },
+  {
+    "Name": "CPrologArtifactSlug",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "CArtifactSlug"
+  },
+  {
+    "Name": "EArtifactAtom",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactAtom"
+  },
+  {
+    "Name": "EArtifactBattery",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactBattery"
+  },
+  {
+    "Name": "EArtifactChocolate",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactChocolate"
+  },
+  {
+    "Name": "EArtifactCloud",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactCloud"
+  },
+  {
+    "Name": "EArtifactCrystalGlass",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactCrystalGlass"
+  },
+  {
+    "Name": "EArtifactDope",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactDope"
+  },
+  {
+    "Name": "EArtifactDummy",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactDummy"
+  },
+  {
+    "Name": "EArtifactFlash",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactFlash"
+  },
+  {
+    "Name": "EArtifactJellyFish",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactJellyFish"
+  },
+  {
+    "Name": "EArtifactMoonlight",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactMoonlight"
+  },
+  {
+    "Name": "EArtifactRazor",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactRazor"
+  },
+  {
+    "Name": "EArtifactSnowflake",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactSnowflake"
+  },
+  {
+    "Name": "EArtifactSoul",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactSoul"
+  },
+  {
+    "Name": "EArtifactSparkler",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactSparkler"
+  },
+  {
+    "Name": "EArtifactThunderHedgehog",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactThunderHedgehog"
+  },
+  {
+    "Name": "EArtifactTow",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactTow"
+  },
+  {
+    "Name": "EArtifactWorm",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "EArtifactWorm"
+  },
+  {
+    "Name": "FArtifactBakedBolts",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactBakedBolts"
+  },
+  {
+    "Name": "FArtifactBurntHunk",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactBurntHunk"
+  },
+  {
+    "Name": "FArtifactCandle",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactCandle"
+  },
+  {
+    "Name": "FArtifactCore",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactCore"
+  },
+  {
+    "Name": "FArtifactCrystal",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactCrystal"
+  },
+  {
+    "Name": "FArtifactDeadSponge",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactDeadSponge"
+  },
+  {
+    "Name": "FArtifactDrops",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactDrops"
+  },
+  {
+    "Name": "FArtifactEye",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactEye"
+  },
+  {
+    "Name": "FArtifactFireBall",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactFireBall"
+  },
+  {
+    "Name": "FArtifactFireworks",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactFireworks"
+  },
+  {
+    "Name": "FArtifactGlass",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactGlass"
+  },
+  {
+    "Name": "FArtifactHellishHedgehog",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactHellishHedgehog"
+  },
+  {
+    "Name": "FArtifactMomsBeads",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactMomsBeads"
+  },
+  {
+    "Name": "FArtifactPlasma",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactPlasma"
+  },
+  {
+    "Name": "FArtifactResin",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactResin"
+  },
+  {
+    "Name": "FArtifactRingOmnipotence",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactRingOmnipotence"
+  },
+  {
+    "Name": "FArtifactSteak",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "FArtifactSteak"
+  },
+  {
+    "Name": "GArtifactBloodStone",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactBloodStone"
+  },
+  {
+    "Name": "GArtifactBud",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactBud"
+  },
+  {
+    "Name": "GArtifactCompass",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactCompass"
+  },
+  {
+    "Name": "GArtifactGoldFish",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactGoldFish"
+  },
+  {
+    "Name": "GArtifactGraphiteBlock",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactGraphiteBlock"
+  },
+  {
+    "Name": "GArtifactGravy",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactGravy"
+  },
+  {
+    "Name": "GArtifactHedgehog",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactHedgehog"
+  },
+  {
+    "Name": "GArtifactLandSlug",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactLandSlug"
+  },
+  {
+    "Name": "GArtifactNightStar",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactNightStar"
+  },
+  {
+    "Name": "GArtifactPlane",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactPlane"
+  },
+  {
+    "Name": "GArtifactRubiksCube",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactRubiksCube"
+  },
+  {
+    "Name": "GArtifactSplitStone",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactSplitStone"
+  },
+  {
+    "Name": "GArtifactSponge",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactSponge"
+  },
+  {
+    "Name": "GArtifactSpring",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactSpring"
+  },
+  {
+    "Name": "GArtifactStoneDrop",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactStoneDrop"
+  },
+  {
+    "Name": "GArtifactTrunk",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactTrunk"
+  },
+  {
+    "Name": "GArtifactWrenched",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "GArtifactWrenched"
+  },
+  {
+    "Name": "QArtifact_Chimera",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "DLC01_ArtifactHeartofChimera"
+  },
+  {
+    "Name": "QArtifact_Heart",
+    "Namespace": "ST_S2BaseGameLocalization",
+    "LocalizationSID": "QuestArtifactHeartOfChornobyl"
+  }
+]
